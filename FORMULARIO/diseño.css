@@ -1,0 +1,63 @@
+body { 
+    background: url(https://images4.alphacoders.com/646/646937.jpg);
+    background-repeat:no-repeat ;
+    margin: 0;
+    font-family: sans-serif;
+}
+.formulario {
+    background:url(https://media.istockphoto.com/vectors/seamless-pattern-with-hand-drawn-burgers-vector-fast-food-background-vector-id937800714);
+    width: 500px;
+    max-width: 100%;
+    color: darkmagenta;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    box-shadow: 0 0 10px 1px rgb(0, 0, 0);
+    position: relative;
+}
+.formulario__titulo {
+    text-align: center;
+    margin-top: 0;
+    color: aqua;
+}
+.formulario_input, .formulario_label {
+    display: block;
+    width: 98%;
+    font-size: 1.3em;
+}
+.formulario__submit {
+    display: block;
+    width: 100%;
+    font-size: 1.3em;
+}
+.formulario__input {
+    color:white;
+    padding: 8px;
+    background: rgba(0,0,0,0.1);
+    border: 1px solid rgba(136, 10, 10, 0.932);
+    margin-bottom: 50px;
+}
+.formulario__input:focus {
+    outline: 1px solid rgba(38, 118, 223, 0.7);
+}
+.formulario__input:focus + 
+.formulario__label{
+  margin-top: -135px;
+}
+.formulario__label {
+font-size:x-large;
+padding-left: 15px;
+margin-top: 10px;
+z-index: -20;
+color: aqua;
+}
+.formulario__submit {
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px 40px;
+    cursor: pointer;
+    border: none;
+}
+.fijar {
+    margin-top: -135px;
+}

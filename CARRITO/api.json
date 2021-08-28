@@ -1,0 +1,74 @@
+[
+    {
+      "precio": 20,
+      "id": 1,
+      "title": "Ensaladas",
+      "thumbnailUrl": "https://www.superama.com.mx/views/micrositio/recetas/images/comidasaludable/ensaladamixta/Web_fotoreceta.jpg"
+    },
+    {
+      "precio": 35,
+      "id": 2,
+      "title": "Pizza",
+      "thumbnailUrl": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2016/05/costradepizza.jpg"
+    },
+    {
+      "precio": 5,
+      "id": 3,
+      "title": "Agua",
+      "thumbnailUrl": "https://vivanda.vtexassets.com/arquivos/ids/227753/20119465.jpg?v=637419708670570000"
+    },
+    {
+      "precio": 35,
+      "id": 4,
+      "title": "KFC",
+      "thumbnailUrl": "https://lacuevadedominguez.net.pe/wp-content/uploads/2021/08/kfc-sabor-criollo-520x445.jpg"
+    },
+    {
+      "precio": 10,
+      "id": 5,
+      "title": "Bembos",
+      "thumbnailUrl": "https://d31npzejelj8v1.cloudfront.net/media/wysiwyg/1619493585_La_Charly_Bembos_Peru.jpg"
+    },
+    {
+      "precio": 30,
+      "id": 6,
+      "title": "Pachamanca",
+      "thumbnailUrl": "https://elperuano.pe/fotografia/thumbnail/2021/02/07/000107718M.jpg"
+    },
+    {
+      "precio": 22,
+      "id": 7,
+      "title": "1/4 Pollo a la Brasa",
+      "thumbnailUrl": "https://www.rikotonchicken.com/wp-content/uploads/2017/05/platos-dise%C3%B1o03.png"
+    },
+    {
+      "precio": 38,
+      "id": 8,
+      "title": "Ceviche",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cebiche_de_corvina.JPG/1200px-Cebiche_de_corvina.JPG"
+    },
+    {
+      "precio": 15,
+      "id": 9,
+      "title": "Arroz Chaufa",
+      "thumbnailUrl": "https://comococinar.pe/wp-content/uploads/2021/06/Arroz-chaufa.jpg"
+    },
+    {
+      "precio": 22,
+      "id": 10,
+      "title": "Tallarin Saltado",
+      "thumbnailUrl": "https://www.deliciosi.com/images/1400/1414/tallar%C3%ADn-saltado-de-pollo.jpg"
+    },
+    {
+      "precio": 10,
+      "id": 11,
+      "title": "Inca Kola",
+      "thumbnailUrl": "https://plazavea.vteximg.com.br/arquivos/ids/525928-1000-1000/21186.jpg?v=637418780973130000"
+    },
+    {
+      "precio": 10,
+      "id": 12,
+      "title": "Coca Cola",
+      "thumbnailUrl": "https://wongfood.vteximg.com.br/arquivos/ids/344189-1000-1000/45035-01-7.jpg?v=637153128781870000"
+    }
+  ]
